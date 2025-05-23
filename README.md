@@ -18,7 +18,7 @@ Olá! Sou um engenheiro de dados apaixonado por transformar dados complexos em i
 - **Programming Languages**: `Python`, `SQL`, `Bash`
 - **Cloud Platforms**: `AWS`, `AZURE`
 - **AWS Services**: `S3`, `Glue`, `Lambda`, `Redshift`
-- **Azure Services**: `Data Lake Storage`, `DataBricks`, `SQL Database`, `Data Factory`
+- **Azure Services**: `Data Lake Storage`, `Azure DataBricks`, `SQL Database`, `Data Factory`
 - **Databases & Data Warehouses**: `PostgreSQL`, `MySQL`, `SQLite`, `Oracle`
 - **Data Processing & Orchestration**: `Databricks`, `Airflow`, `Spark`, `PySpark`
 - **Data Modeling & Transformation**: `Dimensional Modeling (Star Schema)`, `SQL for ETL`, `Spark`, `dbt`
