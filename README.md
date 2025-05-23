@@ -21,7 +21,7 @@ Olá! Sou um engenheiro de dados apaixonado por transformar dados complexos em i
 - **Azure Services**: `Data Lake Storage`, `DataBricks`, `SQL Database`, `Data Factory`
 - **Databases & Data Warehouses**: `PostgreSQL`, `MySQL`, `SQLite`, `Oracle`
 - **Data Processing & Orchestration**: `Databricks`, `Airflow`, `Spark`, `PySpark`
-- **Data Modeling & Transformation**: `dbt`, `Trino`, `Iceberg`, `Delta`, `DuckDB`
+- **Data Modeling & Transformation**: `Dimensional Modeling (Star Schema)`, `SQL for ETL`, `Spark`, `dbt`
 - **DevOps & Version Control**: `Git`, `GitHub`, `Docker`, `Docker Compose`
 - **Business Intelligence & Visualization**: `Power BI`, `Looker`
 - **Methodologies**: `Scrum`
