@@ -7,10 +7,10 @@ Olá! Sou um engenheiro de dados apaixonado por transformar dados complexos em i
 
 <br>
 
- 🔭 Atualmente trabalhando como Analista de Dados.
- 🌱 Aprendendo mais sobre Arquitetura de Dados e ferramentas da Nuvem.
- 💬 Pergunte-me sobre: `Python`, `SQL`, `AWS`, `AZURE`, `Spark`.
- 📫 Como me encontrar: [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/gustavo-priori-4bba04210/))
+ *🔭 Atualmente trabalhando como Analista de Dados.
+ *🌱 Aprendendo mais sobre Arquitetura de Dados e ferramentas da Nuvem.
+ *💬 Pergunte-me sobre: `Python`, `SQL`, `AWS`, `AZURE`, `Spark`.
+ *📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gustavo-priori-4bba04210/)
 
 - Programming Languages: Python, SQL, Bash
 - Cloud Platforms: AWS, AZURE
